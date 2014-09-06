@@ -8,3 +8,4 @@ en een regel er tussen
 en now working on my pc
 en weer op ubuntu
 werkt prima op git gui mij betreft, en nog wat erbij
+en daar gaan we weer
