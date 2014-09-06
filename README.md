@@ -6,3 +6,4 @@ and now I have added the final line (4)
 wow, line 5
 en now working on my pc
 en weer op ubuntu
+werkt prima op git gui mij betreft, en nog wat erbij
